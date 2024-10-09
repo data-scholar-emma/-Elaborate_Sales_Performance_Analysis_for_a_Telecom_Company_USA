@@ -43,8 +43,8 @@ The results were downloaded and saved as  the following csv files below: <br> <b
 
 ## Data Analysis Tools Used:
 
-- SQL (PostgreSQL) - for Data Collection , Data Cleaning , and Data Analysis 
-- Power BI - for Data Modelling,  Data Analysis,  Data Visualization and Creating an Interactive Report.
+- __SQL (PostgreSQL)__ - for Data Collection , Data Cleaning , and Data Analysis 
+- __Power BI__ - for Data Modelling,  Data Analysis,  Data Visualization and Creating an Interactive Report.
 
 
 ## Data Collection: 
