@@ -138,6 +138,24 @@ ORDER BY year ASC
 
 ```
 
+
+
+
+
+
+
+
+![customer behaviour_screenshot](https://github.com/user-attachments/assets/09a0d163-a204-4475-9c5e-69daa6439e37)
+
+
+![channel performance_screenshot](https://github.com/user-attachments/assets/09b5f8f1-d4b2-4835-ab6a-80ded96451fa)
+
+
+![regional performance_screenshot](https://github.com/user-attachments/assets/def175b9-9f2a-490d-b904-65ad16686431)
+
+
+![yearly revenue trend_screenshot](https://github.com/user-attachments/assets/ec4d1c83-b692-433e-808f-64d03498939a)
+
 ## Results and  Findings: 
 
 The Analysis Results is summarised as follows: 
